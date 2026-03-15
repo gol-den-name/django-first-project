@@ -1,0 +1,17 @@
+# Django/Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# The Local Database 
+db.sqlite3
+
+# Virtual Environments
+.venv/
+venv/
+env/
+.env
+Pipfile.lock
+
+# IDE settings
+.vscode/
